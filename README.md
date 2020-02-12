@@ -1,3 +1,3 @@
 lorem ipsum 
 ## second title
-lorem ipsum 2 1
+lorem ipsum 2
